@@ -1,0 +1,72 @@
+[
+  {
+    "taskId": 1,
+    "title": "Complete Project Proposal",
+    "description": "Prepare and submit the project proposal by end of the week",
+    "status": "Incomplete",
+    "assignedTo": "John Doe"
+  },
+  {
+    "taskId": 2,
+    "title": "Review Code Changes",
+    "description": "Review and provide feedback on recent code changes",
+    "status": "Complete",
+    "assignedTo": "Jane Smith"
+  },
+  {
+    "taskId": 3,
+    "title": "Schedule Team Meeting",
+    "description": "Coordinate a team meeting to discuss project updates",
+    "status": "Incomplete",
+    "assignedTo": "John Doe"
+  },
+  {
+    "taskId": 4,
+    "title": "Prepare Presentation Slides",
+    "description": "Create slides for upcoming project presentation",
+    "status": "Incomplete",
+    "assignedTo": "Emily Brown"
+  },
+  {
+    "taskId": 5,
+    "title": "Conduct User Interviews",
+    "description": "Interview users to gather feedback on new product features",
+    "status": "In Progress",
+    "assignedTo": "Alex Johnson"
+  },
+  {
+    "taskId": 6,
+    "title": "Fix Bugs in Frontend",
+    "description": "Identify and fix bugs reported by users in the frontend application",
+    "status": "In Progress",
+    "assignedTo": "Jane Smith"
+  },
+  {
+    "taskId": 7,
+    "title": "Update Documentation",
+    "description": "Update project documentation with latest changes and instructions",
+    "status": "Complete",
+    "assignedTo": "John Doe"
+  },
+  {
+    "taskId": 8,
+    "title": "Test New Features",
+    "description": "Test new product features to ensure they meet requirements",
+    "status": "Incomplete",
+    "assignedTo": "Emily Brown"
+  },
+  {
+    "taskId": 9,
+    "title": "Deploy Application Updates",
+    "description": "Deploy latest application updates to production environment",
+    "status": "Pending",
+    "assignedTo": "Alex Johnson"
+  },
+  {
+    "taskId": 10,
+    "title": "Prepare Monthly Report",
+    "description": "Compile and prepare monthly project progress report for stakeholders",
+    "status": "Incomplete",
+    "assignedTo": "John Doe"
+  }
+]
